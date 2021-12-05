@@ -26,7 +26,7 @@ import com.bill.layoutmanagergroup.skidright.SkidRightLayoutManager;
 /**
  * Created by Bill
  * github: https://github.com/MiMiBill
- *
+ * https://www.jianshu.com/p/e54db232df62
  */
 
 public class EchelonSnapHelper extends SnapHelper {
